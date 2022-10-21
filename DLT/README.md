@@ -1,7 +1,9 @@
 Direct Linear Transformation (DLT)
-DLT algorithm and simple Bilinear Interpolation function for backward warping of a 2D image(treated as a 3D plane with z=1).
-Project dependencies: Numpy, PIL, and Matplotlib.
+implementing the DLT algorithm along with a simple Bilinear Interpolation function used for backward warping of a 2D image by leveraging Numpy, PIL, and Matplotlib.
+
+![](https://github.com/ipsavani/3D-ComputerVision/blob/main/DLT/basketball-court.png)
+<img src = "https://github.com/ipsavani/3D-ComputerVision/blob/main/DLT/basketball-court-warped.png" width="200" height = "366">
 
 
  
-Fig. Orignal unwarped image(Left). Warped image after DLT and bilinear interpolation(Right).
+Fig. Orignal image(Left). Warped image after DLT and bilinear interpolation(Right).
